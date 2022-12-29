@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/LMThomaz.png',
     alt: 'Leonardo Thomaz',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta
 
 export const Primary: StoryObj<AvatarProps> = {}
