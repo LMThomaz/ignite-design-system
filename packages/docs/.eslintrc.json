@@ -1,5 +1,5 @@
 {
-  "extends": "@ignite-ui/eslint-config",
+  "extends": "@dev-ignite-ui/eslint-config",
   "overrides": [
     {
       "files": "*.mdx",
