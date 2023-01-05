@@ -1,0 +1,2 @@
+import{A as t}from"./index.79104f74.js";import"./index.c360ffdc.js";import"./iframe.6d084262.js";import"./index.c51b828c.js";import"./jsx-runtime.dbc498b7.js";const m={title:"Data display/Avatar",component:t,args:{src:"https://github.com/LMThomaz.png",alt:"Leonardo Thomaz"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,c as WithFallback,e as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories.e9867708.js.map
